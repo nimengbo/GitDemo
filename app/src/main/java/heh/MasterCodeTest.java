@@ -15,4 +15,6 @@ public class MasterCodeTest {
 
 
     private boolean thirdTest;
+
+    private boolean hehe;
 }
