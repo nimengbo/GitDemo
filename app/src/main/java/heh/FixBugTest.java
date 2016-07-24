@@ -6,4 +6,10 @@ package heh;
  * github https://github.com/nimengbo
  */
 public class FixBugTest {
+
+
+    private boolean needReset;
+
+
+
 }
