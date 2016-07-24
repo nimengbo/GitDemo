@@ -10,4 +10,9 @@ public class MasterCodeTest {
 
     private boolean firstTest;
 
+
+    private boolean secondTest;
+
+
+    private boolean thirdTest;
 }
