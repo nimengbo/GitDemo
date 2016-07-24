@@ -6,4 +6,8 @@ package heh;
  * github https://github.com/nimengbo
  */
 public class MasterCodeTest {
+
+
+    private boolean firstTest;
+
 }
