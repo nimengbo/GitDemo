@@ -8,6 +8,7 @@ package heh;
 public class MasterCodeTest {
 
 
+
     private boolean firstTest;
 
 
@@ -17,4 +18,5 @@ public class MasterCodeTest {
     private boolean thirdTest;
 
     private boolean hehe;
+
 }
