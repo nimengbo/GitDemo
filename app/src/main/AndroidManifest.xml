@@ -1,7 +1,6 @@
 <manifest package="com.abner.gitdemo"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!--修改过的显示为蓝色-->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
