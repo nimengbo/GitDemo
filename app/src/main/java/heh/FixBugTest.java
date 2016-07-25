@@ -12,8 +12,4 @@ public class FixBugTest {
 
     private boolean needReset22;
 
-
-
-
-
 }
