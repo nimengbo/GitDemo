@@ -12,7 +12,10 @@ public class FixBugTest {
 
     private boolean needReset22;
 
-
+    private boolean needReset23;
+    private boolean needReset24;
+    private boolean needReset25;
+    private boolean needReset26;
 
 
 
