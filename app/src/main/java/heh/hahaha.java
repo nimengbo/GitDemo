@@ -5,5 +5,5 @@ package heh;
  * Email nimengbo@gmail.com
  * GitHub https://github.com/nimengbo
  */
-public class hahaha {
+public class HAHAHA {
 }
